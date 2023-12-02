@@ -11,7 +11,8 @@
   "categories": [
     "Themes"
   ],
-  "icon": "owl48.png",
+  "repository": "https://github.com/amreshpro/owlify",
+  "icon": "https://i.imgur.com/vcUIeZ1.png",
   "contributes": {
     "themes": [
       {

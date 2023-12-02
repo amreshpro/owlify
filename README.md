@@ -2,19 +2,21 @@
 
 
 ### HTML
-![html](screenshots/html.png)
+![html](https://i.imgur.com/ReVx6NH.png)
 
 
 ### CSS
-![css](screenshots/css.png)
+![css](https://i.imgur.com/Mps9TUq.png)
 
 ### JavaScript
-![js](screenshots/js.png)
+![js](https://i.imgur.com/HNELqTd.png)
 
 ### Java
-![java](screenshots/java.png)
+![java](https://i.imgur.com/CVPiQlx.png)
 
 
+
+Owlify Repository : https://github.com/amreshpro/owlify
 
 Contact: amresh.terminal@gmail.com
 
