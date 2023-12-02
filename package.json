@@ -1,0 +1,24 @@
+{
+  "name": "owlify",
+  "displayName": "owlify",
+  "description": "A Dark Theme for night owl.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "author": "Amresh Maurya",
+  "keywords": ["Owlify", "Owl night","amresh","amreshpro","DarkOwl"],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "owl48.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Owlify",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Owlify-color-theme.json"
+      }
+    ]
+  }
+}
