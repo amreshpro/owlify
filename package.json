@@ -12,7 +12,8 @@
     "Themes"
   ],
   "repository": "https://github.com/amreshpro/owlify",
-  "icon": "https://i.imgur.com/vcUIeZ1.png",
+  "icon": "owl.ico",
+  "publisher": "amreshpro",
   "contributes": {
     "themes": [
       {
