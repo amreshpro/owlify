@@ -83,7 +83,7 @@
     "tab.inactiveBackground": "#140515",
     "editorGroupHeader.tabsBackground": "#140515",
 
-    "editorGroupHeader.noTabsBackground": "#f52424",
+    "editorGroupHeader.noTabsBackground": "#140515",
     "editorWidget.background": "#220924",
     "editorWidget.border": "#220924",
     "editorWidget.foreground": "#eeffff",
